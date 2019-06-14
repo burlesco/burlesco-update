@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "burlesco@burles.co": {
+      "updates": [
+        {
+          "version": "11.12",
+          "update_link": "https://github.com/burlesco/burlesco/releases/download/v11.12/burlesco-firefox.xpi"
+        }
+      ]
+    }
+  }
+}
